@@ -1,4 +1,4 @@
-.box-body {
+/* .box-body {
   position: absolute;
   width: 1600px;
   height: 80px;
@@ -487,10 +487,10 @@ li {
   font-size: 16px;
   line-height: 19px;
   /* identical to box height */
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
+  /* text-align: center; */
+  /* letter-spacing: 0.03em; */
+  /* color: #757575; */
+/* }/* 
 
 .img23 {
   position: absolute;
@@ -515,8 +515,8 @@ li {
   font-size: 16px;
   line-height: 19px;
   /* identical to box height */
-  text-align: center;
-  letter-spacing: 0.03em;
+  /* text-align: center; */
+  /* letter-spacing: 0.03em;
   color: #212121;
 }
 
@@ -532,7 +532,7 @@ li {
   font-size: 16px;
   line-height: 19px;
   /* identical to box height */
-  text-align: center;
+ /*  text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -559,7 +559,7 @@ li {
   font-size: 16px;
   line-height: 19px;
   /* identical to box height */
-  text-align: center;
+ /*  text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
 }
@@ -576,7 +576,7 @@ li {
   font-size: 16px;
   line-height: 19px;
   /* identical to box height */
-  text-align: center;
+  /* text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -593,7 +593,7 @@ li {
   font-size: 26px;
   line-height: 31px;
   /* identical to box height */
-  letter-spacing: 0.03em;
+  /* letter-spacing: 0.03em;
   text-decoration: none;
   color: #2196f3;
 }
@@ -611,7 +611,7 @@ li {
   line-height: 24px;
   text-decoration: none;
   /* or 171% */
-  letter-spacing: 0.03em;
+ /*  letter-spacing: 0.03em;
   color: #ffffff;
 }
 
@@ -628,7 +628,7 @@ li {
   line-height: 24px;
   text-decoration: none;
   /* or 171% */
-  letter-spacing: 0.03em;
+ /*  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 
@@ -645,6 +645,6 @@ li {
   line-height: 24px;
   text-decoration: none;
   /* or 171% */
-  letter-spacing: 0.03em;
+  /* letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
